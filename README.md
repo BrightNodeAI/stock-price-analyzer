@@ -13,8 +13,9 @@ Built with Python, yfinance, Matplotlib, and Pandas.
 
 ## Screenshot
 
-Add a screenshot of your chart output here after running the app.
-
+![Screenshot](Stock_analyzer_1.jpg)
+![Screenshot](Stock_analyzer_2.jpg)
+![Screenshot](Stock_analyzer_3.jpg)
 ---
 
 ## What It Does
