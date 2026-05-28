@@ -13,9 +13,9 @@ Built with Python, yfinance, Matplotlib, and Pandas.
 
 ## Screenshot
 
-![Screenshot](Stock analyzer 1.jpg)
-![Screenshot](Stock analyzer 2.jpg)
-![Screenshot](Stock analyzer 3.jpg)
+![Screenshot](Stock_analyzer_1.jpg)
+![Screenshot](Stock_analyzer_2.jpg)
+![Screenshot](Stock_analyzer_3.jpg)
 ---
 
 ## What It Does
